@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bohoanwasurk.github.io/sitemap.xml
